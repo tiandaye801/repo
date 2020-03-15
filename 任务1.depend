@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571904381 source:c:\users\秋实\desktop\学习\c++学习\任务1\main.cpp
+	<iostream>
+	"sLinkList.h"
+	"stdlib.h"
+	"sLinkList.cpp"
+
+1571904424 c:\users\秋实\desktop\学习\c++学习\任务1\slinklist.h
+	<cstddef>
+
+1571904424 c:\users\秋实\desktop\学习\c++学习\任务1\slinklist.cpp
+	"sLinkList.h"
+	<iostream>
+	<cstddef>
+
